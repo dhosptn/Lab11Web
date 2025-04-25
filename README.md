@@ -7,7 +7,7 @@
 
 
 Dokumentasi ini berisi rangkuman materi dan latihan dalam **Praktikum 4-6** dari mata kuliah **Pemorograman Web 2**.  
-Setiap praktikum membahas berbagai aspek penggunaan **PHP Framework CodeIgniter 4**, mulai dari dasar hingga konsep lanjutan seperti **Sistem Login, Pagnition, Pencarioan, dan Upload Gambar**.
+Setiap praktikum membahas berbagai aspek penggunaan **PHP Framework CodeIgniter 4**, mulai dari dasar hingga konsep lanjutan seperti **Sistem Login, Pagnition, Pencarian, dan Upload Gambar**.
 
 Praktikum ini bertujuan untuk memberikan pemahaman mendalam tentang **pengembangan aplikasi web berbasis CodeIgniter 4**, termasuk konfigurasi awal, struktur proyek, serta implementasi fitur-fitur esensial dalam sebuah aplikasi web.
 
