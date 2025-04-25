@@ -237,6 +237,9 @@ public function logout() {
 }
 ```
 
+🖼️ _Screenshot Tombol Logout:_  
+![Routes](./image/logout.png)
+
 ---
 
 ## ✅ Kesimpulan
